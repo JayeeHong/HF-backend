@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.exampledomain.domain.api;
 
-import com.example.dddbackend.exampledomain.domain.Example;
+import com.example.dddbackendjd.exampledomain.domain.Example;
 
 public interface AssembleAExample {
 

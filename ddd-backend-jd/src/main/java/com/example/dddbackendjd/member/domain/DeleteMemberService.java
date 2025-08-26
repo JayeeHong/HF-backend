@@ -1,9 +1,9 @@
 package com.example.dddbackendjd.member.domain;
 
-import com.example.dddbackend.common.annotation.DomainService;
-import com.example.dddbackend.member.domain.api.DeleteMemberUseCase;
-import com.example.dddbackend.member.domain.api.dto.MemberCommand;
-import com.example.dddbackend.member.domain.spi.MemberRepository;
+import com.example.dddbackendjd.common.annotation.DomainService;
+import com.example.dddbackendjd.member.domain.api.DeleteMemberUseCase;
+import com.example.dddbackendjd.member.domain.api.dto.MemberCommand;
+import com.example.dddbackendjd.member.domain.spi.MemberRepository;
 import lombok.RequiredArgsConstructor;
 
 @DomainService

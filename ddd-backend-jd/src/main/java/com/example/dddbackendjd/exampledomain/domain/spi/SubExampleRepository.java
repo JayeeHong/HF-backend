@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.exampledomain.domain.spi;
 
-import com.example.dddbackend.exampledomain.domain.SubExample;
+import com.example.dddbackendjd.exampledomain.domain.SubExample;
 
 import java.util.List;
 

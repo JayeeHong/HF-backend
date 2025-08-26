@@ -1,8 +1,8 @@
 package com.example.dddbackendjd.member.application;
 
-import com.example.dddbackend.member.domain.Member;
-import com.example.dddbackend.member.domain.api.RegisterMemberUseCase;
-import com.example.dddbackend.member.presentation.model.RegisterMemberRequest;
+import com.example.dddbackendjd.member.domain.Member;
+import com.example.dddbackendjd.member.domain.api.RegisterMemberUseCase;
+import com.example.dddbackendjd.member.presentation.model.RegisterMemberRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

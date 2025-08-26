@@ -1,9 +1,9 @@
 package com.example.dddbackendjd.exampledomain.domain;
 
-import com.example.dddbackend.common.annotation.DomainService;
-import com.example.dddbackend.exampledomain.domain.api.AssembleAExample;
-import com.example.dddbackend.exampledomain.domain.spi.ExampleRepository;
-import com.example.dddbackend.exampledomain.domain.spi.SubExampleRepository;
+import com.example.dddbackendjd.common.annotation.DomainService;
+import com.example.dddbackendjd.exampledomain.domain.api.AssembleAExample;
+import com.example.dddbackendjd.exampledomain.domain.spi.ExampleRepository;
+import com.example.dddbackendjd.exampledomain.domain.spi.SubExampleRepository;
 
 @DomainService
 public class ExampleAssembler implements AssembleAExample {

@@ -1,7 +1,7 @@
 package com.example.dddbackendjd.exampledomain.infrastructure.external;
 
-import com.example.dddbackend.exampledomain.domain.SubExample;
-import com.example.dddbackend.exampledomain.domain.spi.SubExampleRepository;
+import com.example.dddbackendjd.exampledomain.domain.SubExample;
+import com.example.dddbackendjd.exampledomain.domain.spi.SubExampleRepository;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

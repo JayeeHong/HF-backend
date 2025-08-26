@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.member.domain.api;
 
-import com.example.dddbackend.member.domain.Member;
+import com.example.dddbackendjd.member.domain.Member;
 
 public interface QueryMemberUseCase {
 

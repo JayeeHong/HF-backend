@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.member.presentation.model;
 
-import com.example.dddbackend.member.domain.api.dto.MemberCommand;
+import com.example.dddbackendjd.member.domain.api.dto.MemberCommand;
 
 public record RegisterMemberRequest(
         String status,

@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.member.domain;
 
-import com.example.dddbackend.member.domain.MemberId;
+import com.example.dddbackendjd.member.domain.MemberId;
 import lombok.Builder;
 
 @Builder(toBuilder = true)

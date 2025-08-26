@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.common.configuration;
 
-import com.example.dddbackend.common.annotation.DomainService;
+import com.example.dddbackendjd.common.annotation.DomainService;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.FilterType;

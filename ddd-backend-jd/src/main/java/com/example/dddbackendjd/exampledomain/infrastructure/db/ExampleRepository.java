@@ -1,7 +1,7 @@
 package com.example.dddbackendjd.exampledomain.infrastructure.db;
 
-import com.example.dddbackend.exampledomain.domain.Example;
-import com.example.dddbackend.exampledomain.infrastructure.db.ExampleJpaRepository;
+import com.example.dddbackendjd.exampledomain.domain.Example;
+import com.example.dddbackendjd.exampledomain.infrastructure.db.ExampleJpaRepository;
 import org.springframework.stereotype.Component;
 
 import java.util.Collections;

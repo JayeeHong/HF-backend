@@ -1,6 +1,6 @@
 package com.example.dddbackendjd.exampledomain.presentation.model;
 
-import com.example.dddbackend.exampledomain.presentation.model.SubExampleDto;
+import com.example.dddbackendjd.exampledomain.presentation.model.SubExampleDto;
 
 import java.util.List;
 

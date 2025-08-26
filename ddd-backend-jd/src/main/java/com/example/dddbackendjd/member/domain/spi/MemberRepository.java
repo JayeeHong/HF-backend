@@ -1,7 +1,7 @@
 package com.example.dddbackendjd.member.domain.spi;
 
-import com.example.dddbackend.member.domain.Member;
-import com.example.dddbackend.member.domain.MemberId;
+import com.example.dddbackendjd.member.domain.Member;
+import com.example.dddbackendjd.member.domain.MemberId;
 
 public interface MemberRepository {
 

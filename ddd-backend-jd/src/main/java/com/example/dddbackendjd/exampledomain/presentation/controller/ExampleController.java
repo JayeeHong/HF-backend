@@ -1,8 +1,8 @@
 package com.example.dddbackendjd.exampledomain.presentation.controller;
 
-import com.example.dddbackend.exampledomain.application.GetExampleUseCase;
-import com.example.dddbackend.exampledomain.presentation.model.ExampleDto;
-import com.example.dddbackend.exampledomain.presentation.model.ExampleRequest;
+import com.example.dddbackendjd.exampledomain.application.GetExampleUseCase;
+import com.example.dddbackendjd.exampledomain.presentation.model.ExampleDto;
+import com.example.dddbackendjd.exampledomain.presentation.model.ExampleRequest;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,9 +1,9 @@
 package com.example.dddbackendjd.exampledomain.application;
 
-import com.example.dddbackend.common.annotation.UseCase;
-import com.example.dddbackend.exampledomain.domain.api.AssembleAExample;
-import com.example.dddbackend.exampledomain.presentation.model.ExampleDto;
-import com.example.dddbackend.exampledomain.presentation.model.SubExampleDto;
+import com.example.dddbackendjd.common.annotation.UseCase;
+import com.example.dddbackendjd.exampledomain.domain.api.AssembleAExample;
+import com.example.dddbackendjd.exampledomain.presentation.model.ExampleDto;
+import com.example.dddbackendjd.exampledomain.presentation.model.SubExampleDto;
 
 @UseCase
 public class GetExampleUseCase {
